@@ -1,16 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww28300\viewh14980\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 # Pre-work - *Tip Calculator*\
 \
-**Name of your app** is a tip calculator application for iOS.\
+**Tip Calculator** is a tip calculator application for iOS.\
 \
-Submitted by: **Your Name Here**\
+Submitted by: **Rushikesh Naik**\
 \
 Time spent: 8 hours spent in total\
 \
@@ -46,7 +38,7 @@ Describe any challenges encountered while building the app.\
 - Understanding SWIF\
 ## License\
 \
-    Copyright [2017] [name of copyright owner]\
+    Copyright [2017] [Rushikesh Naik]\
 \
     Licensed under the Apache License, Version 2.0 (the "License");\
     you may not use this file except in compliance with the License.\
